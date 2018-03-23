@@ -1,0 +1,2 @@
+﻿  icmp.cpp
+c:\users\dima\source\repos\icmp\icmp\icmp.cpp(135): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
